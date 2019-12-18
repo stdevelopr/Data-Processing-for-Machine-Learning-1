@@ -38,6 +38,6 @@ Make sure that the file doesn't have null values.
 
 ## You can also run using docker:
 
-```docker run -it -v /folder/to/Data-Processing-for-Machine-Learning-1/data:/data data_processing```
+```docker run -it -v /complete/path/to/Data-Processing-for-Machine-Learning-1/data:/data data_processing```
 
 where /complete/path/to is the full path of the folder where you cloned this project. You can get it using the pwd command on linux.

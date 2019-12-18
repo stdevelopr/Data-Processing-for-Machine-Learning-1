@@ -40,4 +40,4 @@ Make sure that the file doesn't have null values.
 
 ```docker run -it -v /folder/to/Data-Processing-for-Machine-Learning-1/data:/data data_processing```
 
-where /complete/path/to is the path of the folder where you cloned this project.
+where /complete/path/to is the full path of the folder where you cloned this project. You can get it using the pwd command on linux.

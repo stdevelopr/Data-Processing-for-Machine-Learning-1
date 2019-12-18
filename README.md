@@ -38,6 +38,6 @@ Make sure that the file doesn't have null values.
 
 ## You can also run using docker:
 
-```docker run -it -v /folder/to/ML---Data-Processing/data:/data data_processing```
+```docker run -it -v /folder/to/Data-Processing-for-Machine-Learning-1/data:/data data_processing```
 
 where /complete/path/to is the path of the folder where you cloned this project.
